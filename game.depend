@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1398881248 source:/home/kelvinosse/Documents/CodeProject/game/main.cpp
+	<iostream>
+	"guerrero.h"
+	"Mago.h"
+	<vector>
+	"Arquero.h"
+
+1398881880 /home/kelvinosse/Documents/CodeProject/game/guerrero.h
+	"Personaje.h"
+	<iostream>
+
+1398881880 source:/home/kelvinosse/Documents/CodeProject/game/guerrero.cpp
+	"guerrero.h"
+
+1398708609 source:/home/kelvinosse/Documents/CodeProject/game/Mago.cpp
+	"Mago.h"
+
+1398708865 /home/kelvinosse/Documents/CodeProject/game/Mago.h
+	"Personaje.h"
+	<iostream>
+
+1398795712 source:/home/kelvinosse/Documents/CodeProject/game/Personaje.cpp
+	"Personaje.h"
+
+1398881962 /home/kelvinosse/Documents/CodeProject/game/Personaje.h
+	<iostream>
+
+1398881690 source:/home/kelvinosse/Documents/CodeProject/game/Arquero.cpp
+	"Arquero.h"
+
+1398882299 /home/kelvinosse/Documents/CodeProject/game/Arquero.h
+	"Personaje.h"
+
+1399486771 source:/home/turupawn/Projects/Codeblocks/Clases/testC--/ExerciseClase/Arquero.cpp
+	"Arquero.h"
+
+1399486651 /home/turupawn/Projects/Codeblocks/Clases/testC--/ExerciseClase/Arquero.h
+	"Personaje.h"
+
+1399485841 /home/turupawn/Projects/Codeblocks/Clases/testC--/ExerciseClase/Personaje.h
+	<iostream>
+
+1399486824 source:/home/turupawn/Projects/Codeblocks/Clases/testC--/ExerciseClase/guerrero.cpp
+	"guerrero.h"
+
+1399486552 /home/turupawn/Projects/Codeblocks/Clases/testC--/ExerciseClase/guerrero.h
+	"Personaje.h"
+	<iostream>
+
+1399486203 source:/home/turupawn/Projects/Codeblocks/Clases/testC--/ExerciseClase/Mago.cpp
+	"Mago.h"
+
+1399485981 /home/turupawn/Projects/Codeblocks/Clases/testC--/ExerciseClase/Mago.h
+	"Personaje.h"
+	<iostream>
+
+1399487014 source:/home/turupawn/Projects/Codeblocks/Clases/testC--/ExerciseClase/main.cpp
+	<iostream>
+	"guerrero.h"
+	"Mago.h"
+	<vector>
+	"Arquero.h"
+
+1399485836 source:/home/turupawn/Projects/Codeblocks/Clases/testC--/ExerciseClase/Personaje.cpp
+	"Personaje.h"
+
